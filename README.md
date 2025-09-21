@@ -86,6 +86,7 @@ docker run -d -p 80:80 my-web-app</code></pre>
 </body>
 </html>
 
+
 ## Step 4: Build & Run Docker Container
 # Build Docker image
 docker build -t my-web-app .

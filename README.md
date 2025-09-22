@@ -7,9 +7,10 @@ This repo is structured so anyone can reproduce the project step by step.
 - Install Docker: [https://www.docker.com/get-started/](https://www.docker.com/get-started/)  
 - Optional: Docker Compose for easier container management
 
-## Step 1: Create Project Folder
-Open your terminal and run:
+launch nginx: docker run -d -p 80:80 nginx
 
+## Step 1: Create Project Folder
+Open your terminal and run: 
 cd ~/Desktop
 mkdir Compute
 cd Compute
